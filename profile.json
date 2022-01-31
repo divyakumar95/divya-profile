@@ -1,0 +1,140 @@
+{
+    "profile" : [
+        {
+        "Headline":"Hi! I'm Divyakumar N.",
+        "Summary":"I am a Data-centric Machine learning Engineer with 3+ years of experience in designing, developing and maintaining scalable data pipelines. Proficient in Python, AWS, Azure DevOps and Automation Framework. Experience in the Automation, Robotic and IOT industry. Capable of maintaining, enhancing and implementing AI solutions. Interested in Deep learning and computer vison. Passionate about AI Technologies."
+        }
+    ],
+    "links" : [ {
+        "linkedIn":"https://www.linkedin.com/in/divya-kumar-n",
+        "instagram":"insta",
+        "skype":"skype",
+        "facebook":"xyz",
+        "gmail":"divyakumardiv@gmail.com",
+        "github":"https://github.com/divyakumar95"
+        }
+    ],
+    "aboutMe" : [
+      {
+        "image": "https://media-exp1.licdn.com/dms/image/C5603AQHr892WeYMkxA/profile-displayphoto-shrink_800_800/0/1595610614580?e=1649289600&v=beta&t=xV3m_zuo-jEcxu-IULkziiFsT3Dggwe_jlusnvHLdlk",
+        "about": "Worked in developing product level algorithms and code. Machine Learning & Audio Mining experience in Robotic and IOT industry. Capable of maintaining, enhancing, and implementing AI solutions. Passionate about Deep Learning and AI Technologies.",
+        "contactDetails":[
+          {
+            "Name":"Divyakumar N",
+            "Address":"53 Whiteoaks, Clonskeagh Dublin",
+            "Phone": [
+              {
+                "Primary": "+353 892763802",
+                "Secondary": "+91 9611161833" 
+              }
+            ],
+            "email":"divyakumardiv@gmail.com"
+          }
+        ]
+      } 
+    ],
+    "Education": [
+      {
+        "SchoolName": "Dublin Business School",
+        "logo": "https://www.dbs.ie/images/default-source/logos/dbs-logo-2019-small.tmb-small.png?sfvrsn=ff5c6eea_1",
+        "url":"https://www.dbs.ie/",
+        "roles": [
+          {
+            "title":"Master of Science in Artificial Intelligece",
+            "description": "Built and updated various Chrome Extensions.",
+            "startDate": "2017-01-01",
+            "endDate": "2017-05-01",
+            "location": "Dublin, Ireland" 
+          }
+        ]
+      },
+      {
+        "SchoolName": "Visvesvaraya Technological University",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Vtul-291x300.png",
+        "url":"https://vtu.ac.in/",
+        "roles": [
+          {
+            "title":"Bachelors of Science in Artificial Intelligece",
+            "description": "Built and updated various Chrome Extensions.",
+            "startDate": "2017-01-01",
+            "endDate": "2017-05-01",
+            "location": "Belgaum, Kanataka, India" 
+          }
+        ]
+      }
+    ],
+    "Experiences": [
+      {
+        "companyName": "Demo1 Technologies",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+        "url": "https://www.google.com/",
+        "roles": [
+          {
+            "title": "Full Stack Developer",
+            "description": "Built and updated various Chrome Extensions.",
+            "startDate": "2017-01-01",
+            "endDate": "2017-05-01",
+            "location": "New York, USA"
+          }
+        ]
+      },
+      {
+        "companyName": "Demo2 Technologies",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+        "url": "https://www.google.com/",
+        "roles": [
+          {
+            "title": "UI Designer",
+            "description": "Design user-fridendly web page",
+            "startDate": "2016-05-01",
+            "endDate": "2016-09-01",
+            "location": "Beijing, China"
+          }
+        ]
+      }
+    ],
+    "Skills": [
+      {
+        "Area": "Programming Language",
+        "SkillSet": [
+          {
+            "Name": "Java",
+            "Hot": true
+          },
+          {
+            "Name": "C#",
+            "Hot": false
+          },
+          {
+            "Name": "Python",
+            "Hot": false
+          }
+        ]
+      },
+      {
+        "Area": "Web-Based Application Development",
+        "SkillSet": [
+          {
+            "Name": "JavaScript (ES5, ES6)",
+            "Hot": true
+          },
+          {
+            "Name": "TypeScript",
+            "Hot": false
+          },
+          {
+            "Name": "HTML5",
+            "Hot": true
+          },
+          {
+            "Name": "CSS (SCSS/SASS)",
+            "Hot": true
+          },
+          {
+            "Name": "React",
+            "Hot": true
+          }
+        ]
+      }      
+    ]
+}
